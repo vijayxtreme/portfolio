@@ -1,0 +1,56 @@
+#header {
+	background-color:#000;
+	color: #fff;
+	height:40px;
+	margin-bottom:20px;
+}
+
+#header h1 {
+	font-size: 3.0rem;
+}
+#header ul {
+	padding-top:5px;
+}
+
+#header a {
+	color: white;
+	text-decoration: none;
+}
+
+#header a:hover{
+	background:red;
+	color:white;
+}
+
+#footer {
+
+}
+#footer h1 {
+	font-size:1.5rem;
+}
+
+ul.inline {
+	text-align:right;
+}
+ul.inline >li {
+	list-style-type: none;
+	display:inline;
+}
+
+img {
+	max-width:770px;
+	max-height:433px;
+}
+
+.container img {
+	display: block;
+	margin:0 auto;
+}
+
+/*@about: 'About Section'*/
+
+#resume h4 {
+	font-size:1.8rem;
+}
+
+
